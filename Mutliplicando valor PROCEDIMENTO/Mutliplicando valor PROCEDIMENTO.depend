@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629033283 source:c:\users\samsung\desktop\atividade aula 11.08.2021\mutliplicando valor procedimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

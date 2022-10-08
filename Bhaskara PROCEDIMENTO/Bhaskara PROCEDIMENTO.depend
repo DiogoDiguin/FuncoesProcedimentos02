@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1629040986 source:c:\users\samsung\desktop\bhaskara procedimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1629651541 source:c:\users\samsung\desktop\estrutura de dados i\atividade aula 11.08.2021\bhaskara procedimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<math.h>
+
